@@ -8,9 +8,9 @@ Based on the <a href="https://github.com/arcticicestudio/nord">Nord</a> color pa
 
 ---
 
-<p align="center"><img src=""/><blockquote>Font: <a href="https://damieng.com/blog/2008/05/26/envy-code-r-preview-7-coding-font-released">Envy Code R</a> 10px.</blockquote></p>
+<p align="center"><img src="https://raw.githubusercontent.com/undiabler/nord-rofi-theme/master/image1.png"/><img src="https://raw.githubusercontent.com/undiabler/nord-rofi-theme/master/image2.png"/><blockquote>Font: <a href="https://damieng.com/blog/2008/05/26/envy-code-r-preview-7-coding-font-released">Envy Code R</a> 10px.</blockquote></p>
 
 ## Getting started
 ### Installation
-1. Copy nord.rasi file to `~/.config/rofi/nord.rasi`
+1. Copy <a href="https://raw.githubusercontent.com/undiabler/nord-rofi-theme/master/nord.rasi">nord.rasi</a> file to `~/.config/rofi/nord.rasi`
 2. Add `rofi.theme: nord` line to your rofi config (`~/.config/rofi/config`)
