@@ -13,4 +13,4 @@ Based on the <a href="https://github.com/arcticicestudio/nord">Nord</a> color pa
 ## Getting started
 ### Installation
 1. Copy <a href="https://raw.githubusercontent.com/undiabler/nord-rofi-theme/master/nord.rasi">nord.rasi</a> file to `~/.config/rofi/nord.rasi`
-2. Add `rofi.theme: nord` line to your rofi config (`~/.config/rofi/config`)
+2. Add `@theme "nord.rasi"` line to your rofi config (`~/.config/rofi/config.rasi`)
