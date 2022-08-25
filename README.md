@@ -18,10 +18,7 @@ Based on the <a href="https://github.com/arcticicestudio/nord">Nord</a> color pa
 ```
 configuration {
     font: "Envy Code R 10";
-    width: 30;
     line-margin: 10;
-    lines: 6;
-    columns: 2;
 
     display-ssh:    "";
     display-run:    "";
@@ -33,4 +30,13 @@ configuration {
 
 
 @theme "~/.config/rofi/nord.rasi"
+
+listview {
+	lines: 6;
+	columns: 2;
+}
+
+window {
+	width: 30%;
+}
 ```
