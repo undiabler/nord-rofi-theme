@@ -39,4 +39,8 @@ listview {
 window {
 	width: 30%;
 }
+
+element-icon {
+	size: 2ch;
+}
 ```
