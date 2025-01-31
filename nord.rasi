@@ -125,3 +125,13 @@ button selected normal {
     border: 2px 0px 2px 2px;
     border-color: @foreground;
 }
+
+textbox {
+    padding: 8px;
+    border-radius: 6px 6px 6px 6px;
+    border-color: @nord10;
+    border: 1px 1px 1px 1px;
+    background-color: rgba(46,52,64,0.9);
+    dynamic: true;
+    text-color: @backlight;
+}
